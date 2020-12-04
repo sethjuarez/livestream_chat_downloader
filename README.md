@@ -1,1 +1,3 @@
-# livestream_chat_downloader
+# livestream chat downloader
+
+For the discerning streamer James Montemagno
